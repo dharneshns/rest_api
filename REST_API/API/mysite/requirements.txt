@@ -4,3 +4,5 @@ environs
 mysqlclient
 pymysql
 gunicorn
+whitenoise
+
